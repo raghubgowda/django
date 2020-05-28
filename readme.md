@@ -1,3 +1,3 @@
 # Shopping cart application
 
-## Built with Django
+## Built with Django framework
